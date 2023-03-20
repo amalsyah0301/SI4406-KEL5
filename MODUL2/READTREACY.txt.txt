@@ -1,2 +1,5 @@
 menambahkan fitur login dan register
 muhammad ikhlasul amalsyah isa
+
+menambahkan fitur melihat katalog
+najma syarifa rahmah
